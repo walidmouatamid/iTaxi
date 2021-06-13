@@ -1,0 +1,24 @@
+Python - Subscriber and DataStoring/venv
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+ServiceWeb/.idea
+ServiceWeb/*.iws
+ServiceWeb/*.impl
+ServiceWeb/*.impr
+
+Python - Subscriber and DataStoring/.idea
+Python - Subscriber and DataStoring/*.iws
+Python - Subscriber and DataStoring/*.impl
+Python - Subscriber and DataStoring/*.impr
+
+### VS Code ###
+.vscode/
+*.properties
+Js - Subscriber and Viz/.vscode
+Js - Subscriber and Viz/*.properties
+

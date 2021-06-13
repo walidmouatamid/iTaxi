@@ -1,0 +1,9 @@
+.title-row{
+min-height:8vh ;
+}
+.map-row{
+  min-height:92vh ;
+  }
+#mapid {
+  height: 100%;
+}
